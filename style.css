@@ -203,7 +203,7 @@ body {
   color: white;
   font-size: 16px;
   font-weight: 700;
-  text-align: left;
+  text-align: center;
 }
 
 @media(min-width: 800px){
